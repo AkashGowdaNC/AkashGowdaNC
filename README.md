@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:05070D,100:FF6B35&height=250&section=header&text=AKASH%20GOWDA%20N%20C&fontSize=46&fontColor=FFD166&fontAlignY=36&desc=CSE%20(AI%20%26%20ML)%20%C2%B7%20AI%20Agents%20%C2%B7%20VTU%20Batch%202027&descSize=17&descAlign=52&descAlignY=56&animation=twinkling" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/hero.svg" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=700&color=FFB020&background=05070D00&center=true&vCenter=true&width=900&height=52&lines=%24+whoami+%E2%86%92+Akash+Gowda+N+C+%7C+CSE+(AI+%26+ML)+%7C+VTU+2027;%24+cat+stack.txt+%E2%86%92+Python+%7C+Java+%7C+FastAPI+%7C+LangChain;%24+ls+~%2Fprojects+%E2%86%92+ShieldJob+%7C+ECOWise+Green+Tech;%24+focus+--now+%E2%86%92+AI+Agents+%7C+RAG+%7C+Explainable+ML;%24+cat+open-to.txt+%E2%86%92+SDE+%7C+AI+Engineer+%7C+Internships" />
 
