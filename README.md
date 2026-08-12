@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/github/followers/AkashGowdaNC?label=FOLLOWERS&style=flat-square&color=FFB020&labelColor=0A0D16&logo=github&logoColor=FFB020" />
 <img src="https://img.shields.io/github/stars/AkashGowdaNC?label=STARS&style=flat-square&color=FFB020&labelColor=0A0D16&logo=github&logoColor=FFB020" />
 
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 
 </div>
 
@@ -44,7 +44,7 @@ OPEN_TO  =  SDE  |  AI Engineer  |  Backend Engineer  |  Internships
 ```
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 </div>
 
 ## `> ls /tech-stack`
@@ -76,7 +76,7 @@ OPEN_TO  =  SDE  |  AI Engineer  |  Backend Engineer  |  Internships
 <img src="https://img.shields.io/badge/EXPLAINABLE%20AI-0A0D16?style=for-the-badge&logo=scikitlearn&logoColor=FFB020&labelColor=0A0D16" />
 <img src="https://img.shields.io/badge/DATA%20STRUCTURES-0A0D16?style=for-the-badge&logo=leetcode&logoColor=FFB020&labelColor=0A0D16" />
 
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 
 </div>
 
@@ -92,11 +92,11 @@ OPEN_TO  =  SDE  |  AI Engineer  |  Backend Engineer  |  Internships
 | **CS Fundamentals** | `███████░░░` Strong | Data Structures, DBMS, Operating Systems, Computer Networking |
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 </div>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/band2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/band.svg" />
 </div>
 
 ## `> ls -la /projects`
@@ -175,7 +175,7 @@ A smart waste management platform that tracks collection, routing and resource r
 </details>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 </div>
 
 ## `> git log --activity`
@@ -202,7 +202,7 @@ A smart waste management platform that tracks collection, routing and resource r
 `Rapid Prototyping` `Team Collaboration` `Quantum Basics` `Product Thinking`
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 </div>
 
 ## `> cat achievements.md`
@@ -218,7 +218,7 @@ A smart waste management platform that tracks collection, routing and resource r
 | 💡 | Innovation, Design &amp; Entrepreneurship Bootcamp | JNNCE, Shivamogga | 2025 |
 | 🧭 | Technical Coordinator — Terra Tech Club | Navkis CoE | 2024 – Present |
 
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 
 </div>
 
@@ -238,7 +238,7 @@ A smart waste management platform that tracks collection, routing and resource r
 <img src="https://img.shields.io/badge/PRINCIPLES%20OF%20GENERATIVE%20AI-Infosys%20%C2%B7%202025-FFD166?style=for-the-badge&logo=infosys&logoColor=05070D&labelColor=FFD166" />
 <img src="https://img.shields.io/badge/AGENTIC%20AI-Oracle%20%C2%B7%202026-FFD166?style=for-the-badge&logo=oracle&logoColor=05070D&labelColor=FFD166" />
 
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 
 </div>
 
@@ -250,20 +250,32 @@ A smart waste management platform that tracks collection, routing and resource r
 
 <br/>
 
-<img height="170" src="https://github-readme-stats-akash-gowda-n-cs-projects.vercel.app/api?username=AkashGowdaNC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=30,05070D,2A1508&title_color=FF6B35&icon_color=FFB020&text_color=E6EDF3&ring_color=FF6B35" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkashGowdaNC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=30,05070D,2A1508&title_color=FF6B35&icon_color=FFB020&text_color=E6EDF3&ring_color=FF6B35" />
 <img height="170" src="https://streak-stats.demolab.com/?user=AkashGowdaNC&hide_border=true&border_radius=12&background=05070D&stroke=2A1508&ring=FF6B35&fire=FFB020&currStreakLabel=FF6B35&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=FFD166&dates=FFD166" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats-akash-gowda-n-cs-projects.vercel.app/api/top-langs/?username=AkashGowdaNC&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=30,05070D,2A1508&title_color=FF6B35&text_color=E6EDF3" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGowdaNC&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=30,05070D,2A1508&title_color=FF6B35&text_color=E6EDF3" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/AkashGowdaNC?style=for-the-badge&logo=github&logoColor=FFB020&labelColor=0A0D16&color=FF6B35&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/AkashGowdaNC?style=for-the-badge&logo=github&logoColor=FFB020&labelColor=0A0D16&color=FF6B35&label=TOTAL%20STARS" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAkashGowdaNC&query=%24.public_repos&style=for-the-badge&logo=git&logoColor=FFB020&labelColor=0A0D16&color=FF6B35&label=PUBLIC%20REPOS" />
+<img src="https://github-profile-trophy.vercel.app/?username=AkashGowdaNC&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkashGowdaNC&custom_title=Contribution%20Heat&bg_color=05070D&color=FFD166&line=FF6B35&point=FFB020&area=true&area_color=FFB020&hide_border=true&title_color=FF6B35&radius=12" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashGowdaNC&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashGowdaNC&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashGowdaNC&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashGowdaNC&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashGowdaNC&theme=github_dark&utcOffset=5.5" />
+
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 
 </div>
 
@@ -298,7 +310,7 @@ open_to:
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/divider.svg" />
 
 ## `> ./connect`
 
@@ -310,6 +322,6 @@ open_to:
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4200&pause=1300&color=FFD166&background=05070D00&center=true&vCenter=true&width=760&height=36&lines=%22Build+things+that+are+honest+about+what+they+don't+know.%22" />
 
-<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/footer2.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/AkashGowdaNC/AkashGowdaNC/main/footer.svg" />
 
 </div>
