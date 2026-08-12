@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 170" width="1100" height="170" role="img" aria-label="status band - currently building and learning">
+
+  <defs>
+    <linearGradient id="bEmber" x1="-60%" x2="10%" y1="0%" y2="0%">
+      <stop offset="0" stop-color="#FF6B35"/>
+      <stop offset="0.5" stop-color="#FFF6DC"/>
+      <stop offset="1" stop-color="#FF6B35"/>
+      <animate attributeName="x1" values="-60%;140%" dur="6s" repeatCount="indefinite"
+               calcMode="spline" keySplines="0.45 0 0.55 1"/>
+      <animate attributeName="x2" values="10%;210%" dur="6s" repeatCount="indefinite"
+               calcMode="spline" keySplines="0.45 0 0.55 1"/>
+    </linearGradient>
+
+    <linearGradient id="bMeter" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B35"/>
+      <stop offset="1" stop-color="#FFD166"/>
+    </linearGradient>
+
+    <linearGradient id="bRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B35" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFB020" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#FF6B35" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="bFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#05070D" stop-opacity="1"/>
+      <stop offset="0.1" stop-color="#05070D" stop-opacity="0"/>
+      <stop offset="0.9" stop-color="#05070D" stop-opacity="0"/>
+      <stop offset="1" stop-color="#05070D" stop-opacity="1"/>
+    </linearGradient>
+
+    <radialGradient id="bGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#FF6B35" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#05070D" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="bGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 L0 0 0 28" fill="none" stroke="#FFB020" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+
+    <filter id="bSoft" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+
+    <clipPath id="bMq"><rect x="0" y="118" width="1100" height="28"/></clipPath>
+  </defs>
+
+  <rect width="1100" height="170" fill="#05070D"/>
+  <rect width="1100" height="170" fill="url(#bGrid)"/>
+  <rect width="1100" height="170" fill="url(#bGlow)"/>
+
+  <rect x="0" y="8" width="1100" height="1.4" fill="url(#bRule)"/>
+
+  <text x="550" y="42" text-anchor="middle"
+        font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="12" letter-spacing="5" fill="url(#bEmber)">SYSTEM STATUS</text>
+
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11.5">
+
+    <text x="150" y="72" fill="#FFD166" fill-opacity="0.75" letter-spacing="1">ai agents</text>
+    <rect x="150" y="80" width="230" height="5" rx="2.5" fill="#FFB020" fill-opacity="0.13"/>
+    <rect x="150" y="80" width="0" height="5" rx="2.5" fill="url(#bMeter)">
+      <animate attributeName="width" values="0;168;168;0" keyTimes="0;0.30;0.88;1" dur="9s"
+               repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1; 0 0 1 1; 0.6 0 0.9 0.3"/>
+    </rect>
+    <circle cx="150" cy="82.5" r="3" fill="#FFF6DC" filter="url(#bSoft)" opacity="0">
+      <animate attributeName="cx" values="150;318;318;150" keyTimes="0;0.30;0.88;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1; 0 0 1 1; 0.6 0 0.9 0.3"/>
+      <animate attributeName="opacity" values="0;1;0.5;0" keyTimes="0;0.30;0.88;1" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="435" y="72" fill="#FFD166" fill-opacity="0.75" letter-spacing="1">rag pipelines</text>
+    <rect x="435" y="80" width="230" height="5" rx="2.5" fill="#FFB020" fill-opacity="0.13"/>
+    <rect x="435" y="80" width="0" height="5" rx="2.5" fill="url(#bMeter)">
+      <animate attributeName="width" values="0;146;146;0" keyTimes="0;0.34;0.88;1" dur="9s"
+               repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1; 0 0 1 1; 0.6 0 0.9 0.3"/>
+    </rect>
+    <circle cx="435" cy="82.5" r="3" fill="#FFF6DC" filter="url(#bSoft)" opacity="0">
+      <animate attributeName="cx" values="435;581;581;435" keyTimes="0;0.34;0.88;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1; 0 0 1 1; 0.6 0 0.9 0.3"/>
+      <animate attributeName="opacity" values="0;1;0.5;0" keyTimes="0;0.34;0.88;1" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="720" y="72" fill="#FFD166" fill-opacity="0.75" letter-spacing="1">data structures</text>
+    <rect x="720" y="80" width="230" height="5" rx="2.5" fill="#FFB020" fill-opacity="0.13"/>
+    <rect x="720" y="80" width="0" height="5" rx="2.5" fill="url(#bMeter)">
+      <animate attributeName="width" values="0;192;192;0" keyTimes="0;0.38;0.88;1" dur="9s"
+               repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1; 0 0 1 1; 0.6 0 0.9 0.3"/>
+    </rect>
+    <circle cx="720" cy="82.5" r="3" fill="#FFF6DC" filter="url(#bSoft)" opacity="0">
+      <animate attributeName="cx" values="720;912;912;720" keyTimes="0;0.38;0.88;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1; 0 0 1 1; 0.6 0 0.9 0.3"/>
+      <animate attributeName="opacity" values="0;1;0.5;0" keyTimes="0;0.38;0.88;1" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g clip-path="url(#bMq)">
+    <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+       font-size="11.5" letter-spacing="3" fill="#FF6B35" fill-opacity="0.45">
+      <animateTransform attributeName="transform" type="translate" from="-660 0" to="0 0"
+                        dur="15s" repeatCount="indefinite"/>
+      <text x="0" y="137">BUILDING . LEARNING . SHIPPING . BREAKING . FIXING . REPEATING . </text>
+      <text x="660" y="137">BUILDING . LEARNING . SHIPPING . BREAKING . FIXING . REPEATING . </text>
+      <text x="1320" y="137">BUILDING . LEARNING . SHIPPING . BREAKING . FIXING . REPEATING . </text>
+    </g>
+  </g>
+  <rect x="0" y="118" width="1100" height="28" fill="url(#bFade)"/>
+
+  <rect x="0" y="158" width="1100" height="1.4" fill="url(#bRule)"/>
+
+</svg>
