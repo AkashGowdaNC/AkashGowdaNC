@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 400" width="1100" height="400" role="img" aria-label="Akash Gowda N C - AI and Machine Learning Engineer - VTU 2027">
+
+  <defs>
+    <linearGradient id="ember" x1="-60%" x2="10%" y1="0%" y2="0%">
+      <stop offset="0" stop-color="#FF6B35"/>
+      <stop offset="0.40" stop-color="#FFB020"/>
+      <stop offset="0.50" stop-color="#FFF6DC"/>
+      <stop offset="0.60" stop-color="#FFB020"/>
+      <stop offset="1" stop-color="#FF6B35"/>
+      <animate attributeName="x1" values="-60%;140%" dur="7s" repeatCount="indefinite"
+               calcMode="spline" keySplines="0.45 0 0.55 1"/>
+      <animate attributeName="x2" values="10%;210%" dur="7s" repeatCount="indefinite"
+               calcMode="spline" keySplines="0.45 0 0.55 1"/>
+    </linearGradient>
+
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B35" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FF6B35" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="halo" cx="72%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#FF6B35" stop-opacity="0.17"/>
+      <stop offset="0.6" stop-color="#FFB020" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#05070D" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0.55" stop-color="#05070D" stop-opacity="0"/>
+      <stop offset="1" stop-color="#05070D" stop-opacity="0.85"/>
+    </radialGradient>
+
+    <pattern id="gridFar" width="88" height="88" patternUnits="userSpaceOnUse">
+      <path d="M88 0 L0 0 0 88" fill="none" stroke="#FFB020" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <pattern id="gridNear" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0 L0 0 0 22" fill="none" stroke="#FFB020" stroke-opacity="0.028" stroke-width="0.6"/>
+    </pattern>
+
+    <filter id="bloom" x="-30%" y="-70%" width="160%" height="240%">
+      <feGaussianBlur stdDeviation="11"/>
+    </filter>
+    <filter id="softdot" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="2.6"/>
+    </filter>
+
+    <clipPath id="t1"><rect x="646" y="150" width="0" height="19">
+      <animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.14;0.26;0.90;1" dur="15s"
+               repeatCount="indefinite" calcMode="spline"
+               keySplines="0 0 1 1; 0.33 0 0.15 1; 0 0 1 1; 0.6 0 0.9 0.4"/>
+    </rect></clipPath>
+    <clipPath id="t2"><rect x="646" y="176" width="0" height="19">
+      <animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.27;0.37;0.90;1" dur="15s"
+               repeatCount="indefinite" calcMode="spline"
+               keySplines="0 0 1 1; 0.33 0 0.15 1; 0 0 1 1; 0.6 0 0.9 0.4"/>
+    </rect></clipPath>
+    <clipPath id="t3"><rect x="646" y="202" width="0" height="19">
+      <animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.38;0.47;0.90;1" dur="15s"
+               repeatCount="indefinite" calcMode="spline"
+               keySplines="0 0 1 1; 0.33 0 0.15 1; 0 0 1 1; 0.6 0 0.9 0.4"/>
+    </rect></clipPath>
+    <clipPath id="t4"><rect x="646" y="228" width="0" height="19">
+      <animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.48;0.57;0.90;1" dur="15s"
+               repeatCount="indefinite" calcMode="spline"
+               keySplines="0 0 1 1; 0.33 0 0.15 1; 0 0 1 1; 0.6 0 0.9 0.4"/>
+    </rect></clipPath>
+
+    <clipPath id="card"><rect x="22" y="18" width="1056" height="364" rx="22"/></clipPath>
+  </defs>
+
+  <rect width="1100" height="400" fill="#05070D"/>
+
+  <g clip-path="url(#card)">
+    <rect x="22" y="18" width="1056" height="364" rx="22" fill="#080B13"/>
+    <rect x="22" y="18" width="1056" height="364" fill="url(#gridNear)"/>
+    <rect x="22" y="18" width="1056" height="364" fill="url(#gridFar)"/>
+    <rect x="22" y="18" width="1056" height="364" fill="url(#halo)"/>
+
+    <g stroke="#FF6B35" stroke-opacity="0.3" stroke-width="0.9" fill="none">
+      <path d="M812 88 L900 118 M812 88 L900 172 M900 118 L988 96 M900 118 L988 150 M900 172 L988 150 M900 172 L988 208 M812 88 L900 236 M900 236 L988 208"
+            stroke-dasharray="620" stroke-dashoffset="620">
+        <animate attributeName="stroke-dashoffset" values="620;620;0;0;620" keyTimes="0;0.03;0.20;0.90;1"
+                 dur="15s" repeatCount="indefinite" calcMode="spline"
+                 keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+      </path>
+    </g>
+
+    <g fill="#FFB020">
+      <circle cx="812" cy="88" r="3.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.03;0.09;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/></circle>
+      <circle cx="900" cy="118" r="3" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.11;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/></circle>
+      <circle cx="900" cy="172" r="3" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.07;0.13;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/></circle>
+      <circle cx="900" cy="236" r="3" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.09;0.15;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/></circle>
+      <circle cx="988" cy="96" r="2.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.11;0.17;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/></circle>
+      <circle cx="988" cy="150" r="2.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.13;0.19;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/></circle>
+      <circle cx="988" cy="208" r="2.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.21;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/></circle>
+    </g>
+
+    <g fill="#FFF6DC" filter="url(#softdot)">
+      <circle r="2.8" opacity="0">
+        <animateMotion path="M812 88 L900 172 L988 208" dur="2.4s" begin="4s;9s;13s" fill="remove" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyPoints="0;0.5;1" keyTimes="0;0.5;1"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="4s;9s;13s" fill="remove"/>
+      </circle>
+      <circle r="2.2" opacity="0">
+        <animateMotion path="M812 88 L900 118 L988 96" dur="2.1s" begin="5.6s;11s" fill="remove" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyPoints="0;0.5;1" keyTimes="0;0.5;1"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.1s" begin="5.6s;11s" fill="remove"/>
+      </circle>
+    </g>
+
+    <rect x="22" y="18" width="1056" height="364" fill="url(#vignette)"/>
+  </g>
+
+  <rect x="22" y="18" width="1056" height="364" rx="22" fill="none" stroke="#FF6B35" stroke-opacity="0.26" stroke-width="1.4"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.06;0.14;0.90;1" dur="15s"
+             repeatCount="indefinite" calcMode="spline"
+             keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+    <rect x="76" y="104" width="34" height="1.6" fill="#FF6B35"/>
+    <text x="122" y="110" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11.5" letter-spacing="5.5" fill="#FF6B35">AI / ML ENGINEER</text>
+  </g>
+
+  <g>
+    <text x="76" y="196" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="62" font-weight="700" letter-spacing="-1"
+          fill="none" stroke="#FFD166" stroke-width="0.85" stroke-dasharray="900" stroke-dashoffset="900" opacity="0">AKASH
+      <animate attributeName="stroke-dashoffset" values="900;900;0;0;900" keyTimes="0;0.16;0.34;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+      <animate attributeName="opacity" values="0;0;1;1;0.15;0" keyTimes="0;0.16;0.20;0.36;0.44;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.4 0 0.6 1; 0 0 1 1"/>
+    </text>
+    <text x="76" y="264" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="62" font-weight="700" letter-spacing="-1"
+          fill="none" stroke="#FFD166" stroke-width="0.85" stroke-dasharray="1500" stroke-dashoffset="1500" opacity="0">GOWDA N C
+      <animate attributeName="stroke-dashoffset" values="1500;1500;0;0;1500" keyTimes="0;0.20;0.40;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+      <animate attributeName="opacity" values="0;0;1;1;0.15;0" keyTimes="0;0.20;0.24;0.42;0.50;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.4 0 0.6 1; 0 0 1 1"/>
+    </text>
+
+    <g filter="url(#bloom)" fill="#FF6B35" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.95;0.42;0.42;0" keyTimes="0;0.40;0.46;0.55;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0.4 0 0.6 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+      <text x="76" y="196" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="62" font-weight="700" letter-spacing="-1">AKASH</text>
+      <text x="76" y="264" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="62" font-weight="700" letter-spacing="-1">GOWDA N C</text>
+    </g>
+
+    <g fill="url(#ember)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.40;0.47;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+      <text x="76" y="196" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="62" font-weight="700" letter-spacing="-1">AKASH</text>
+      <text x="76" y="264" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="62" font-weight="700" letter-spacing="-1">GOWDA N C</text>
+    </g>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.58;0.90;1" dur="15s"
+             repeatCount="indefinite" calcMode="spline"
+             keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+    <rect x="76" y="290" width="0" height="1.4" fill="url(#hair)">
+      <animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.50;0.62;0.90;1" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+    </rect>
+    <text x="76" y="318" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="13" letter-spacing="1.2" fill="#E6EDF3" fill-opacity="0.72">B.E. CSE (AI/ML) . VTU . Batch 2027</text>
+    <text x="76" y="342" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="13" letter-spacing="1.2" fill="#FFD166" fill-opacity="0.62">Mandya, Karnataka . Open to SDE / AI roles</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.10;0.16;0.90;1" dur="15s"
+             repeatCount="indefinite" calcMode="spline"
+             keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+    <rect x="626" y="104" width="392" height="176" rx="12" fill="#05070D" fill-opacity="0.72"
+          stroke="#FF6B35" stroke-opacity="0.22" stroke-width="1"/>
+    <circle cx="648" cy="124" r="3.6" fill="#FF6B35"/>
+    <circle cx="662" cy="124" r="3.6" fill="#FFB020"/>
+    <circle cx="676" cy="124" r="3.6" fill="#FFD166"/>
+    <text x="698" y="128" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="10.5" letter-spacing="1" fill="#FFD166" fill-opacity="0.4">~/stack</text>
+    <rect x="626" y="138" width="392" height="1" fill="#FF6B35" fill-opacity="0.16"/>
+  </g>
+
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5">
+    <g clip-path="url(#t1)"><text x="648" y="164" fill="#FFB020">python  java  sql</text></g>
+    <g clip-path="url(#t2)"><text x="648" y="190" fill="#E6EDF3" fill-opacity="0.74">fastapi  bert  redis</text></g>
+    <g clip-path="url(#t3)"><text x="648" y="216" fill="#E6EDF3" fill-opacity="0.74">langchain  ai agents  rag</text></g>
+    <g clip-path="url(#t4)"><text x="648" y="242" fill="#E6EDF3" fill-opacity="0.74">mysql  mongodb  git</text></g>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.58;0.66;0.90;1" dur="15s"
+             repeatCount="indefinite" calcMode="spline"
+             keySplines="0 0 1 1; 0.16 1 0.3 1; 0 0 1 1; 0.7 0 0.9 0.3"/>
+    <text x="648" y="268" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="12" fill="#FF6B35">ready.</text>
+    <rect x="706" y="258" width="7.5" height="13" fill="#FF6B35">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+</svg>
